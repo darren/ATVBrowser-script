@@ -1,7 +1,7 @@
 ATVBrowser - An ATV2/3 trailer app hack.
 
 CREDITS:-
-I take no credit for writing the DNS Proxy and Web server code, that was written by a guy/gal on the Weiphone BBS by the username of lionphone. I just modified the code to work for me. This is the original forum post:- http://bbs.weiphone.com/read-htm-tid-5128270.html
+I take no credit for writing the DNS Proxy and Web server code, that was written by a guy/gal on the Weiphone BBS by the username of lionphone. I just modified the code to work for me. This is the original forum post:- https://bbs.feng.com/read-htm-tid-5128270.html
 
 DISCLAIMER:- 
 Standard disclaimer here, by using this code/source package you do so at your own risk. If you lose data, your computer melts, your house blows up or your current planet of residents is destroyed I take no responsibility. Basically don't blame me if anything goes wrong :)
